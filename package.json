@@ -19,7 +19,7 @@
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.5.0",
     "react-native-image-placeholder": "^1.0.14",
     "react-native-keep-awake": "^4.0.0",
